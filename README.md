@@ -4,4 +4,4 @@ basic calculation
 
 <h2>Calculator</h2>
 
-<link src:"https://rizkyhaksono.github.io/calculator.github.io/">
+<img src="https://media.giphy.com/media/rFfmUWVMOyKVG/giphy.gif" width="150" height="100" /
