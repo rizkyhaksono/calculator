@@ -1,3 +1,4 @@
-<h3>Basic Calculator</h3>
+ ### Basic Calculator with Dark Mode
+
 
 https://rizkyhaksono.github.io/calculator.github.io/
