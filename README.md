@@ -1,4 +1,7 @@
- ### Basic Calculator with Dark Mode
+### Basic Calculator with Dark Mode
 
+## Including Basic Operators
 
-https://rizkyhaksono.github.io/calculator.github.io/
+<p>Such as ( + | - | * | / )</p>
+
+https://rizkyhaksono.github.io/calculator/
