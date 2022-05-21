@@ -4,4 +4,4 @@
 
 <p>Such as ( + | - | * | / )</p>
 
-https://rizkyhaksono.github.io/calculator/
+https://rizkyhaksono-calculator.netlify.app/
